@@ -10,4 +10,6 @@ Senior Dir, IT (Distributed Systems) @ IQVIA
 
 Your thoughts are your paraside.
 
-++++ Adding something from second branch
+++++ Adding something to second branch
+++++ Adding something to seocnd branch .. commit #2
+
