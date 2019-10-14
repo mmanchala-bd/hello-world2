@@ -1,2 +1,11 @@
 # hello-world2
-my baby steps with GHub
+Manikantha Manchala 
+BS, Electrical Engineering - SRM University
+MS, Computer Science - UNC Charlotte
+Now: Associate Dir, IT, iqvia
+
+In 5 years:
+MBA (General Management) - Duke
+Senior Dir, IT (Distributed Systems) @ IQVIA
+
+Your thoughts are your paraside.
